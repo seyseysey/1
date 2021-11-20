@@ -1,5 +1,8 @@
 # 周宇恒  
   
+  
+  
+  
 ### 爱好  
 - 羽毛球  
 - 英摇    
@@ -26,6 +29,9 @@
 - 辞职转码  
 - 待续  
   
-### 照片
- ![这是我的照片.JPG](https://i.loli.net/2021/11/20/msl8MKYc53UtCXf.jpg)  
- 已经把会用的markdown都用上了，嘿嘿
+### 照片  
+  
+ [![我的照片.jpg](https://iili.io/5vpJWJ.th.jpg)](https://freeimage.host/i/5vpJWJ)  
+   
+  
+##### *一篇胡乱写的自我介绍，已经把会用的markdown都用上了
